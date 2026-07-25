@@ -19,3 +19,8 @@
       - Games not currently installed locally or with missing launchers are skipped.
       - Icon quality is whatever Windows' default icon association returns for
         that exe; it is not always the highest-res icon embedded in the file.
+
+This tool was created by Zanzah.com for free.
+https://Zanzah.com/ 
+https://ko-fi.com/zanzah_z
+https://Zanzah.com/donate (PayPal)
