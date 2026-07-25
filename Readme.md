@@ -20,7 +20,7 @@
       - Icon quality is whatever Windows' default icon association returns for
         that exe; it is not always the highest-res icon embedded in the file.
 
-This tool was created by Zanzah.com for free.
-https://Zanzah.com/ 
-https://ko-fi.com/zanzah_z
-https://Zanzah.com/donate (PayPal)
+This tool was created by Zanzah.com for free. <br>
+https://Zanzah.com/ <br>
+https://ko-fi.com/zanzah_z <br>
+https://Zanzah.com/donate (PayPal) <br>
