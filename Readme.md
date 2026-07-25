@@ -1,6 +1,6 @@
 Tested on Windows 11.
 
-    Steam Workshop Folder Icon Fixer
+    Steam Workshop Iconizer v0.9
     ---------------------------------
     Run via WorkshopIconizer.bat, from inside:
         <SteamLibrary>\steamapps\workshop\content\
@@ -14,6 +14,7 @@ Tested on Windows 11.
 
     Known issues:
       - There is NO undo button, manually reset via Rightclick>Properties>Customize>Change-Icon (on Windows).
+      - "App ID 241100 on Steam is not a traditional game, but the backend system for Steam Input Configs and controller bindings. The folder steamapps\workshop\content\241100 stores community controller layout files, configuration data, and bindings automatically generated when you play games with a controller." This folder will be skipped in future updates.
       - Picking the "main" exe out of a game folder is best guess (see $ExcludeExePattern in .ps1 to customize it). Launchers/anti-cheat wrappers can sometimes cause the wrong icon to appear.
       - Games not currently installed locally or with missing launchers are skipped.
       - Icon quality is whatever Windows' default icon association returns for that exe; it is not always the highest-res icon in the file (some .exe have multiple and/or different .ico files).
